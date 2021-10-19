@@ -1,10 +1,10 @@
 name: A Blog
 author: Yesufu
-url: https://lightfish-zhang.github.io
-resume_site: https://lightfish-zhang.github.io
+url: https://yesufu001.github.io/design/
+resume_site: https://yesufu001.github.io/design/
 baseurl: 
-description: you website desc
-github_username: lightfish-zhang
+description: project website
+github_username: yesufu001
 github: https://github.com/lightfish-zhang
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
@@ -17,6 +17,6 @@ comments :
   gitalk :
     clientID : xxx
     clientSecret : xxx
-    repo : lightfish-zhang.github.io
-    owner : lightfish-zhang
-    admin : lightfish-zhang
+    repo : 
+    owner : 
+    admin : 
